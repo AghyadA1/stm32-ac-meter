@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+# IDE / build output
+Debug/
+Release/
+*.dep
+settings/
